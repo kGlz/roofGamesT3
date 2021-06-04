@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "939552140147",
+    "firebase_url": "https://roofgamestutorial-default-rtdb.firebaseio.com",
+    "project_id": "roofgamestutorial",
+    "storage_bucket": "roofgamestutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939552140147:android:e6c3636132d9f90d313306",
+        "android_client_info": {
+          "package_name": "com.RoofGames.RoofGamesT1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939552140147-s5cr1mpjcq72v2fvukauofi0uvotmnug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqXxm41C_Nax3TQbZDLCbhSi8Z60JDaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939552140147-s5cr1mpjcq72v2fvukauofi0uvotmnug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939552140147:android:daa58346b9b1c8a1313306",
+        "android_client_info": {
+          "package_name": "com.RoofGames.RoofGamesT3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939552140147-s5cr1mpjcq72v2fvukauofi0uvotmnug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqXxm41C_Nax3TQbZDLCbhSi8Z60JDaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939552140147-s5cr1mpjcq72v2fvukauofi0uvotmnug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
